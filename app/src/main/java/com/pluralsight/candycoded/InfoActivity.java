@@ -26,7 +26,7 @@ public class InfoActivity extends AppCompatActivity {
     }
 
     // ***
-    // TODO done - Task 2 - Launch the Google Maps Activity
+    // done - Task 2 - Launch the Google Maps Activity
     // ***
 
     public void createMapIntent(View view){
@@ -41,7 +41,7 @@ public class InfoActivity extends AppCompatActivity {
     }
 
     // ***
-    // TODO done - Task 3 - Launch the Phone Activity
+    // done - Task 3 - Launch the Phone Activity
     // ***
     public void createPhoneIntent(View view) {
         Intent intent = new Intent(Intent.ACTION_DIAL);
