@@ -58,8 +58,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/InfoActivity.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="495">
-              <caret line="40" column="5" selection-start-line="40" selection-start-column="5" selection-end-line="40" selection-end-column="5" />
+            <state relative-caret-position="540">
+              <caret line="43" column="17" selection-start-line="43" selection-start-column="17" selection-end-line="43" selection-end-column="17" />
             </state>
           </provider>
         </entry>
@@ -68,8 +68,8 @@
         <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_info.xml">
           <provider editor-type-id="android-designer2" />
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="15">
-              <caret line="10" column="34" selection-start-line="10" selection-start-column="34" selection-end-line="10" selection-end-column="34" />
+            <state relative-caret-position="450">
+              <caret line="54" column="43" selection-start-line="54" selection-start-column="43" selection-end-line="54" selection-end-column="43" />
             </state>
           </provider>
         </entry>
@@ -94,9 +94,9 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="922" />
+    <option name="x" value="1011" />
     <option name="y" value="39" />
-    <option name="width" value="989" />
+    <option name="width" value="900" />
     <option name="height" value="1041" />
   </component>
   <component name="ProjectView">
@@ -362,6 +362,22 @@
         <option name="Android.Gradle.BeforeRunTask" enabled="true" />
       </method>
     </configuration>
+    <configuration name="_3_StartThePhoneActivity" type="AndroidJUnit" factoryName="Android JUnit" temporary="true" nameIsGenerated="true">
+      <module name="app" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.pluralsight.candycoded.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.pluralsight.candycoded" />
+      <option name="MAIN_CLASS_NAME" value="com.pluralsight.candycoded._3_StartThePhoneActivity" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
     <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
       <option name="TEST_OBJECT" value="class" />
       <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
@@ -369,11 +385,55 @@
         <option name="Android.Gradle.BeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="candycoded in app" type="AndroidJUnit" factoryName="Android JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="InfoActivity" type="AndroidRunConfigurationType" factoryName="Android App" temporary="true">
       <module name="app" />
-      <option name="TEST_OBJECT" value="directory" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <dir value="$PROJECT_DIR$/app/src/test/java/com/pluralsight/candycoded" />
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+      <option name="DEPLOY_AS_INSTANT" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="specific_activity" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="DEVICE_AND_SNAPSHOT_COMBO_BOX" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Hybrid>
+      <Java />
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Sample Java Methods" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="com.pluralsight.candycoded.InfoActivity" />
       <method v="2">
         <option name="Android.Gradle.BeforeRunTask" enabled="true" />
       </method>
@@ -487,9 +547,10 @@
     <recent_temporary>
       <list>
         <item itemvalue="Android App.MainActivity" />
+        <item itemvalue="Android App.InfoActivity" />
+        <item itemvalue="Android JUnit._3_StartThePhoneActivity" />
         <item itemvalue="Android JUnit._2_StartTheGoogleMapsActivity" />
         <item itemvalue="Android JUnit._1_StartTheStoreInformationActivity" />
-        <item itemvalue="Android JUnit.candycoded in app" />
       </list>
     </recent_temporary>
   </component>
@@ -507,9 +568,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="_1_StartTheStoreInformationActivity - 2019.11.10 at 05h 06m 19s.xml">
-      <configuration name="_1_StartTheStoreInformationActivity" configurationId="AndroidJUnit" />
-    </history-entry>
     <history-entry file="_1_StartTheStoreInformationActivity - 2019.11.10 at 05h 07m 16s.xml">
       <configuration name="_1_StartTheStoreInformationActivity" configurationId="AndroidJUnit" />
     </history-entry>
@@ -537,11 +595,15 @@
     <history-entry file="_2_StartTheGoogleMapsActivity - 2019.11.10 at 05h 43m 04s.xml">
       <configuration name="_2_StartTheGoogleMapsActivity" configurationId="AndroidJUnit" />
     </history-entry>
+    <history-entry file="_3_StartThePhoneActivity - 2019.11.10 at 06h 06m 51s.xml">
+      <configuration name="_3_StartThePhoneActivity" configurationId="AndroidJUnit" />
+    </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="922" y="39" width="989" height="1041" extended-state="0" />
+    <frame x="1011" y="39" width="900" height="1041" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4994012" visible="true" weight="0.37539765" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4994012" visible="true" weight="0.31967214" />
       <window_info id="Structure" order="1" sideWeight="0.5005988" side_tool="true" weight="0.43980584" />
       <window_info id="Captures" order="2" sideWeight="0.5005988" side_tool="true" weight="0.2223301" />
       <window_info id="Favorites" order="3" side_tool="true" />
@@ -552,9 +614,9 @@
       <window_info id="Capture Tool" order="8" />
       <window_info anchor="bottom" id="Version Control" order="0" />
       <window_info anchor="bottom" id="Logcat" order="1" weight="0.20183486" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.19558011" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.19558011" />
       <window_info anchor="bottom" id="Debug" order="3" />
-      <window_info anchor="bottom" id="Terminal" order="4" weight="0.32814372" />
+      <window_info anchor="bottom" id="Terminal" order="4" weight="0.32707182" />
       <window_info anchor="bottom" id="Event Log" order="5" side_tool="true" weight="0.32777777" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Build" order="7" weight="0.33027524" />
@@ -629,16 +691,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/InfoActivity.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="495">
-          <caret line="40" column="5" selection-start-line="40" selection-start-column="5" selection-end-line="40" selection-end-column="5" />
+        <state relative-caret-position="540">
+          <caret line="43" column="17" selection-start-line="43" selection-start-column="17" selection-end-line="43" selection-end-column="17" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_info.xml">
       <provider editor-type-id="android-designer2" />
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="10" column="34" selection-start-line="10" selection-start-column="34" selection-end-line="10" selection-end-column="34" />
+        <state relative-caret-position="450">
+          <caret line="54" column="43" selection-start-line="54" selection-start-column="43" selection-end-line="54" selection-end-column="43" />
         </state>
       </provider>
     </entry>
